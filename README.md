@@ -8,9 +8,10 @@ Skills: Javascript/ Java/ Python/ Tableau
 
 
 ## Skills and Experience
-- ⚛ React js
+- 💻 Java/ Javascript /Python
+- ⚛ React js / Angular Js
 - 📱 Ionic & React Native
 - 📊 Tableau
--☁️ AWS 
+- ☁️ AWS
 
 

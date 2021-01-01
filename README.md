@@ -1,6 +1,6 @@
-### Hi there 👋, my name is Jonathan Ramirez
+My name is Jonathan Ramirez
 #### Full Stack
-![Full Stack](http://jonathanramirezislas.com.mx/images/Cover.png)
+![Full Stack](https://github.com/jonathanramirezislas/jonathanramirezislas/blob/main/jonathanramirez.gif)
 
 I am an engineer in IT. I have experience in the development of mobile & desktop applications, websites, etc ... 
 

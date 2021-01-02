@@ -7,6 +7,6 @@ I am an engineer in IT. I have experience in the development of mobile & desktop
 - ⚛ React js
 - 📱 Ionic(Angular Js) & React Native
 - 📊 Tableau
-- ☁️ AWS
+- ☁️ Learning AWS
 
 

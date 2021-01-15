@@ -1,7 +1,7 @@
 ![Full Stack](https://github.com/jonathanramirezislas/jonathanramirezislas/blob/main/coding.gif)
 #I am an engineer in IT. I have experience in the development of mobile & desktop applications, websites,..
 ## Skills and Experience  🦄 
-- 👨‍💻 Java / Javascript / Python
+- 👨‍💻 Java ☕ / (Type/Java)script 🟦🟨 / Python 🐍
 - ⚛ React js
 - 📱 Ionic (🅰️ngular Js) & React Native
 - 📊 Tableau

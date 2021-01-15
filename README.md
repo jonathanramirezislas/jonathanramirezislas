@@ -3,7 +3,7 @@
 ## Skills and Experience  🦄 
 - 💻 Java / Javascript / Python
 - ⚛ React js
-- 📱 Ionic(Angular Js) & React Native
+- 📱 Ionic(🅰️Angular Js) & React Native
 - 📊 Tableau
 - ☁️ Learning AWS
 

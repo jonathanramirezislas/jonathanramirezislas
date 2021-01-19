@@ -3,8 +3,11 @@
 ## Skills and Experience  🦄 
 - 👨‍💻 Java ☕ / Python 🐍 / (Type/Java)script 🟦🟨 
 - ⚛ React js
+-  Docker🐋 & kubernetes☸︎ 
 - 📱 Ionic (🅰️ngular Js) & React Native
 - 📊 Tableau
-- ☁️ Learning AWS
+- ☁️ Learning AWS 🚢 
+
+
 
 

@@ -6,8 +6,7 @@
 -  Docker🐋 & kubernetes☸︎ 
 - 📱 Ionic (🅰️ngular Js) & React Native
 - 📊 Tableau
-- ☁️ Learning AWS 🚢 
-
+- ☁️ Learning AWS 
 
 
 

@@ -4,7 +4,7 @@
 - 👨‍💻 Java ☕ / Python 🐍 / (Type/Java)script 🟦🟨 
 - ⚛ React js
 -  Docker🐳 & kubernetes⚓️ 
-- 📱 Ionic (🅰️ngular Js) & React Native
+- 📱 Ionic (🅰️ngular) & React Native
 - 📊 Tableau
 - ☁️ Learning AWS 
 
